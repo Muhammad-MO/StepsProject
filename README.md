@@ -14,6 +14,7 @@ Working on this project reinforces my understanding from the <a href="https://gi
 Resouces
 W3 Schools
 Stackoverflow
-![picture](steps/steps1.png)
-![picture](steps/steps2.png)
-![picture](steps/steps3.png)
+
+![picture](steps/screenshot/steps1.png)
+![picture](steps/screenshot/steps2.png)
+![picture](steps/screenshot/steps3.png)
